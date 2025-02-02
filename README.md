@@ -1,9 +1,9 @@
 # Medicine-Buddy
 
-### Doc Drive Link
+## Doc Drive Link
 https://drive.google.com/drive/u/0/folders/1IdEi4xw0OY490PKggIwZiCgBDFsWH1Yj
 
-### Tech Used
+## Tech Used
 - React
     - redux-toolkit
     - react-router
@@ -16,7 +16,7 @@ https://drive.google.com/drive/u/0/folders/1IdEi4xw0OY490PKggIwZiCgBDFsWH1Yj
     - In MemoryCache
 - MySQL
 
-### Pages
+## Pages
 - Auth
 	- Login
 	- Register
@@ -28,3 +28,4 @@ https://drive.google.com/drive/u/0/folders/1IdEi4xw0OY490PKggIwZiCgBDFsWH1Yj
 	- Questions
 	- Presciption
 	- Feedback - google form
+
