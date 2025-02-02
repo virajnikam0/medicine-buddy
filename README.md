@@ -15,3 +15,16 @@ https://drive.google.com/drive/u/0/folders/1IdEi4xw0OY490PKggIwZiCgBDFsWH1Yj
     - JWT token
     - In MemoryCache
 - MySQL
+
+### Pages
+- Auth
+	- Login
+	- Register
+- User
+	- Profile
+	- History
+- App
+	- Symptoms
+	- Questions
+	- Presciption
+	- Feedback - google form
